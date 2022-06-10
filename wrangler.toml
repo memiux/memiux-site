@@ -1,6 +1,6 @@
 name = "memiux"
-type = "javascript"
+main = "./main.js"
 account_id = "812fe038b629cd06682a5a1ad59c427d"
 workers_dev = false
-zone_id = "9f16e14882f18878c07a2c08f99e917e"
 routes = ["https://memiux.com/*"]
+compatibility_date = "2022-06-09"
